@@ -3,7 +3,7 @@ Hand Gesture Recognition Presentation
 This project demonstrates real-time hand gesture recognition using computer vision techniques. It allows users to interact with their system through hand gestures — an innovative approach to control presentations or trigger actions without physical contact.
 
 ![Hand Gesture Screenshot](images/1.png)
-
+Present in ppts folder
 
 ---
 

@@ -4,6 +4,7 @@ This project demonstrates real-time hand gesture recognition using computer visi
 
 ![Hand Gesture Screenshot](images/1.png)
 
+
 ---
 
 ## 📌 Overview
@@ -37,9 +38,7 @@ The goal of this project is to recognize specific hand gestures using a webcam a
 
 hand-gesture-presentation/ ├── app.py # Main script ├── images/ │ └── 1.png # Screenshot image for demo ├── README.md # Project overview ├── requirements.txt # List of dependencies └── ...
 
-yaml
-Copy
-Edit
+
 
 ---
 
@@ -50,21 +49,13 @@ Edit
 ```bash
 git clone https://github.com/your-username/hand-gesture-presentation.git
 cd hand-gesture-presentation
+
 2. Install the Requirements
-bash
-Copy
-Edit
 pip install -r requirements.txt
 If requirements.txt is missing, install manually:
-
-bash
-Copy
-Edit
 pip install opencv-python mediapipe numpy
+
 3. Run the App
-bash
-Copy
-Edit
 python app.py
 Make sure your webcam is connected and accessible.
 
